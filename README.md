@@ -4,7 +4,7 @@
 ./create_users.sh [group] $(cat userlist)
 ```
 
-Remember to change `[group]` to something better, e.g., `cohort01`.
+Remember to change `[group]` to something better, e.g., `cohort01`. The `userlist` file contains usernames for the new users. Passwords will be the same as the username. Get them to change after loging in by typing `passwd` into the Terminal.
 
 # Copying a folder to each user in a group:
 
