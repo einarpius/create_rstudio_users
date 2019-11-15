@@ -19,3 +19,5 @@ Example:
 ```
 ./group_add_dir.sh -g cohort01 -d participant_copy -n Training
 ```
+
+Tested on Debian and Ubuntu.
